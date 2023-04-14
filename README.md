@@ -1,17 +1,6 @@
-﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
-[![License https://github.com/solegalli/hyperparameter-optimization/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/hyperparameter-optimization/blob/master/LICENSE)
-[![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
+
 
 ## Hyperparameter tuning for Machine Learning - Code Repository
-
-Published May, 2021
-
-[<img src="./logo.png" width="248">](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
-
-## Links
-
-- [Online Course](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning)
-
 
 ## Table of Contents
 
